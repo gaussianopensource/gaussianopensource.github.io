@@ -11,9 +11,9 @@ title                    : "Gaussian Robotics Research (GSR)"
 title_separator          : "-"
 name                     : &name "Gaussian Robotics Research"
 description              : &description "R&D Team at Gaussian Robotics"
-url                      : https://gsresearch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gaussianopensource.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gaussianopensource/gsresearch.github.io"
+repository               : "gaussianopensource/gaussianopensource.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
