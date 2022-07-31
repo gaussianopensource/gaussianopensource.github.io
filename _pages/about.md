@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-We are the research and development team at [Gaussian Robotics](https://www.gaussianrobotics.com/). We work on various topics on intelligent robotics, our goal is to build systems that effectively and efficiently interact with our physical world. 
+We are the research and development team at [Gaussian Robotics](https://www.gaussianrobotics.com/). We work on various topics on intelligent robotics, ranging from computer vision to SLAM. Our goal is to build systems that effectively and efficiently interact with our physical world. 
 
 We have vairous openings for both research interns and engineers in Shanghai, Chengdu and Singapore, please visit our [career page](https://www.linkedin.com/company/gausiumofficial/jobs/) for openings.
 
@@ -19,6 +19,6 @@ We have vairous openings for both research interns and engineers in Shanghai, Ch
 # Research Publications
 
 - [A Deep-Learning-based System for Indoor Active Cleaning](coming_soon) \\
-Yike Yun<sup>*</sup>, Linjie Hou<sup>*</sup>, **Zijian Feng**<sup>*</sup>, Wei Jin, Yang Liu, Chongyang Wang, Ruonan He, Weitao Guo, Bo Han, Baoxing Qin, Jiaxin Li \\
+Yike Yun<sup>*</sup>, Linjie Hou<sup>*</sup>, Zijian Feng<sup>*</sup>, Wei Jin, Yang Liu, Chongyang Wang, Ruonan He, Weitao Guo, Bo Han, Baoxing Qin, Jiaxin Li \\
 International Conference on Intelligent Robots and Systems (IROS), October 2022 \\
 \[[project page](projects/active_cleaning)\] \[[paper](https://arxiv.org/pdf/2103.14910)\] \[[code](coming_soon)\]
