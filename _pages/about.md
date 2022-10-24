@@ -21,4 +21,4 @@ We have vairous openings for both research interns and engineers in Shanghai, Ch
 - [A Deep-Learning-based System for Indoor Active Cleaning](coming_soon) \\
 Yike Yun<sup>*</sup>, Linjie Hou<sup>*</sup>, Zijian Feng<sup>*</sup>, Wei Jin, Yang Liu, Chongyang Wang, Ruonan He, Weitao Guo, Bo Han, Baoxing Qin, Jiaxin Li \\
 International Conference on Intelligent Robots and Systems (IROS), October 2022 \\
-\[[project page](projects/active_cleaning)\] \[[paper](coming_soon)\] \[[code](https://github.com/gaussianopensource/dl_active_cleaning)\]
+\[[project page](projects/active_cleaning)\] \[[paper](https://gaussianopensource.github.io/projects/active_cleaning/files/IROS_2022_GS.pdf)\] \[[code](https://github.com/gaussianopensource/dl_active_cleaning)\]
